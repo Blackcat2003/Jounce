@@ -1,0 +1,3 @@
+rep "Ball Rush@Ball_Rush@cloud"
+  path "/"
+    smartbranch "/main"
