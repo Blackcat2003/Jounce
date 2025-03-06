@@ -3,3 +3,5 @@ Description: It is an addictive mobile game that challenges players to swipe a b
 
 Now available on playstore:
 https://play.google.com/store/apps/details?id=com.com.Teknack.Jounce.JounceJoyfulBounce&pcampaignid=web_share
+
+![GamePoster](https://github.com/user-attachments/assets/2cb10067-9271-4264-908c-4189aac961e2)
